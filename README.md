@@ -4,7 +4,7 @@ Efficient Multimodal Large Language Models: A Survey (August 2024)
 
 Research Paper: [https://arxiv.org/pdf/2409.00743](https://arxiv.org/pdf/2405.10739)
 
-Medium Article: [https://medium.com/@brandonjacklyn/interpretable-clustering-db306ccb9b1c](https://medium.com/@sameersah7365/revolutionising-ai-the-rise-of-efficient-multimodal-large-language-models-9e77ecb52cb7)
+Medium Article: https://medium.com/@sameersah7365/revolutionising-ai-the-rise-of-efficient-multimodal-large-language-models-9e77ecb52cb7
 
 Slideshare Presentation: [https://www.slideshare.net/secret/LWdjAyMaOoDc2n](https://www.slideshare.net/slideshow/the-rise-of-efficient-multimodal-large-language-models-pdf/273820756)
 

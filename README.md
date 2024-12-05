@@ -8,6 +8,8 @@ Medium Article: https://medium.com/@sameersah7365/revolutionising-ai-the-rise-of
 
 Slideshare Presentation: [https://www.slideshare.net/secret/LWdjAyMaOoDc2n](https://www.slideshare.net/slideshow/the-rise-of-efficient-multimodal-large-language-models-pdf/273820756)
 
+Video Walkthrough - https://youtu.be/85plQ3XqD-8
+
 # Abstract
 Artificial intelligence has come a long way, but the most exciting breakthroughs are happening at the intersection of different types of data — text, images, videos, and sound. Imagine an AI system that can not only read a book but also analyze the illustrations and even understand spoken commentary about the book. This is the power of Multimodal Large Language Models (MLLMs).
 
